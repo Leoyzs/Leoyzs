@@ -32,28 +32,13 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Sequência de contribuições
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Leoyzs&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff"
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
   <img
     src="https://streak-stats.demolab.com?user=Leoyzs&locale=pt_BR&mode=daily&theme=default&hide_border=false&border=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da&background=ffffff"
     height="165"
     alt="Sequência de contribuições"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Leoyzs&locale=pt-br&layout=compact&langs_count=8&theme=default&hide_border=false&border_color=d0d7de&title_color=0969da&text_color=24292f&bg_color=ffffff"
-    height="165"
-    alt="Linguagens mais utilizadas"
   />
 </div>
 
@@ -62,7 +47,10 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,python,androidstudio,c,cpp,cs,wordpress,git,github&theme=light" alt="Tecnologias e ferramentas" />
+  <img
+    src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,python,androidstudio,c,cpp,cs,wordpress,git,github&theme=light"
+    alt="Tecnologias e ferramentas"
+  />
 </div>
 
 ---
@@ -85,17 +73,6 @@
   <a href="https://www.linkedin.com/in/leonardo-vieira-64763b205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Leoyzs/Leoyzs/output/snake.svg"
-    alt="Animação da cobrinha de contribuições"
-  />
 </div>
 
 ---
